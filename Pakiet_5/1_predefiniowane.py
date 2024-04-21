@@ -1,0 +1,5 @@
+sum([1, 2, 3])
+len('Python')
+abs(-10)
+type([1, 2, 3])
+range(5)
